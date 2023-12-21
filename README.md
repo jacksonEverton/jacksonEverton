@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Everton Rodrigues 🖐️
 
 
-![jacksonEverton GitHub stats](https://github-readme-stats.vercel.app/api?username=jacksonEverton&show_icons=true&theme=dracula&count_private=true)
+![Everton Jackson GitHub stats](https://github-readme-stats.vercel.app/api?username=jacksonEverton&show_icons=true&theme=dracula&count_private=true)
 
 ## Tecnologias que eu uso no meu dia
 
