@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Everton Rodrigues 🖐️
 
-| <a href="https://github.com/jacksonEverton/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jacksonEverton&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/jacksonEverton/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonEverton&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+
+![jacksonEverton GitHub stats](https://github-readme-stats.vercel.app/api?username=jacksonEverton&show_icons=true&theme=dracula&count_private=true)
 
 ## Tecnologias que eu uso no meu dia
 
